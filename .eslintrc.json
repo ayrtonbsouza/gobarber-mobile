@@ -32,6 +32,7 @@
   "rules": {
     "@typescript-eslint/ban-types": "off",
     "react/prop-types": "off",
+    "camelcase": "off",
     "no-unused-expressions": "off",
     "react/jsx-props-no-spreading": "off",
     "react-hooks/rules-of-hooks": "error",
